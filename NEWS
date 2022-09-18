@@ -1,3 +1,10 @@
+## [4.16.1](https://github.com/bytestream/htmlpurifier/compare/v4.16.0...v4.16.1) (2022-09-18)
+
+
+### Bug Fixes
+
+* foobar ([4e36b6f](https://github.com/bytestream/htmlpurifier/commit/4e36b6f38e12b9b212ad04e7004d4a04053ed9b4))
+
 NEWS ( CHANGELOG and HISTORY )                                     HTMLPurifier
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
