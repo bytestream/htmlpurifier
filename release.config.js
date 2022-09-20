@@ -24,6 +24,7 @@ module.exports = {
           'NEWS',
           'Doxyfile',
           'library/**/*',
+          '!library/standalone/**/*',
           'configdoc/**/*',
         ],
       }
