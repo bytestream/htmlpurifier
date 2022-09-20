@@ -1,3 +1,10 @@
+## [4.16.2](https://github.com/bytestream/htmlpurifier/compare/v4.16.1...v4.16.2) (2022-09-20)
+
+
+### Bug Fixes
+
+* semantic release ([#339](https://github.com/bytestream/htmlpurifier/issues/339)) ([6dc0163](https://github.com/bytestream/htmlpurifier/commit/6dc0163ba0a89ed29ae3d54738bc23403c6c14a0))
+
 ## [4.16.1](https://github.com/bytestream/htmlpurifier/compare/v4.16.0...v4.16.1) (2022-09-18)
 
 
