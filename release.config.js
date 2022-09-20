@@ -28,7 +28,6 @@ module.exports = {
           'configdoc/**/*',
         ],
       }
-    ],
-    '@semantic-release/github'
+    ]
   ],
 }
